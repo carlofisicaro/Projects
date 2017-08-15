@@ -1,5 +1,5 @@
 Here I explain how a vector partitioning algorithm, presented by M.E.J Newman and Xiao Zhang in the paper 
-"Multiway Spectral Community Detection 2015", works and the main results you can obtain with such algorithm.
+"Multiway Spectral Community Detection 2015" works, and the main results you can obtain with such algorithm.
 I've implemented the algorithm mentioned above in python2 and you can use it to detect non overlapping communities in both undirected 
 and directed graphs, weighted or unweighted.
 

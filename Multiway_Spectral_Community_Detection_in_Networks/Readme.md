@@ -4,5 +4,7 @@ I've implemented the algorithm mentioned above in python2 and you can use it to 
 and directed graphs, weighted or unweighted.
 
 1_  Read "Networks properties study through a spectral method.pptx"
+
 2_  Open "Multiway_Spectral_community_detection.ipynb"
-3 _ The file I use at point 2 is Netscience.gml, you can find it at the Mark Newman personal webpage
+
+3_ The file I use at point 2 is Netscience.gml, you can find it at the Mark Newman personal webpage

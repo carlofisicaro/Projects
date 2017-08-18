@@ -5,6 +5,6 @@ and directed graphs, weighted or unweighted.
 
 1_  Read "Networks properties study through a spectral method.pptx"
 
-2_  Open "Multiway_Spectral_community_detection.ipynb"
+2_  Open "Multiway Spectral community detection.ipynb"
 
 3_ The file I use at point 2 is Netscience.gml, you can find it at the Mark Newman personal webpage
